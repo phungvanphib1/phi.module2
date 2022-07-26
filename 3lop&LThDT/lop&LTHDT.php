@@ -30,6 +30,7 @@ class Animal{
         // echo __METHOD__.'<br>';
         return $this->color;
     }
+    
 }
 
 $meo = new Animal('Mèo', 'Đen');

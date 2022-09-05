@@ -45,7 +45,7 @@ function pheptinh($pt,$a,$b){
                         echo $a ."//".$b.'='.$resl;
                         break;
         
-    }
+     }
 }
 pheptinh("cong",3,4);
 ?>

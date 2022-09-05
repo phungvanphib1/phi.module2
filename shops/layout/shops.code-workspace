@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\quanlynhansu"
+		},
+		{
+			"path": "..\\..\\qlMuonSach"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shops"
+	}
+}

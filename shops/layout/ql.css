@@ -1,0 +1,23 @@
+.row{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.874);
+    font-family: "Roboto",sans-serif;
+    font-size: 14px;
+    font-size: inherit;
+    /* color: #212529; */
+    word-wrap: normal;
+}
+.facebook{
+    cursor: pointer;
+    /* display: flex; */
+}
+.slack{
+    cursor: pointer;
+    /* display: flex; */
+}
+#a{
+    background-color: black;
+}
+#lay{
+    display: -6px;;
+}

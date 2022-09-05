@@ -1,0 +1,28 @@
+ 
+        /* html{
+    background-size: cover;
+    background: url(https://salt.tikicdn.com/ts/tmp/60/c4/39/53183bb9f55c14217d5e3e873072d10a.jpg)} */
+#id1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+              
+button{   
+  background-color: #ff0066;
+  border: none;
+  padding: 16px 32px;
+  font-size: 16px;
+  opacity: 0.6;                          
+  margin: 10px auto;
+
+}
+button:hover {
+  background-image: linear-gradient(to right bottom, #12b0e9, #627df3);}
+/* #id1{
+  background-color: #00ff2a;
+  border: none;
+  padding: 16px 32px;
+  font-size: 16px;
+  opacity: 0.6;
+}
+    */

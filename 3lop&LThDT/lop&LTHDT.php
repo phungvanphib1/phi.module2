@@ -3,7 +3,7 @@
 class Animal{
     public $name;
         public $color;
-    public function __construct($ts_name,$ts_color){
+    public function __construct($ts_name,$ts_color){ 
         $this->name = $ts_name;
         $this->color = $ts_color;
     }

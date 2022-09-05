@@ -62,5 +62,3 @@ echo '<pre>';
 print_r($po->get_xyz()) ;
 echo '<br>';
 echo $po->toString();
-
-
